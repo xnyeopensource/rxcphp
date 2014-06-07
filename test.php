@@ -1,3 +1,4 @@
 <?php
-echo "this is a test!";
+ require("./apps/rxcphp.php");
+ 
 ?>
